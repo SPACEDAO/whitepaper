@@ -1,4 +1,4 @@
-# whitepaper
+## Whitepaper
 A Dynamic Dispute Resolution System for the Knowledge Economy
 
 ## Pretext
@@ -15,6 +15,9 @@ A Dynamic Dispute Resolution System for the Knowledge Economy
 - Bringing more transparency and trust to the knowledge economy
 
 ## User Journey
+
+## Contract Theory
+- Why is contract theory important for dispute resolution?
 
 ## Solution Summary
 

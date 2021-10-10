@@ -12,6 +12,9 @@ A Dynamic Dispute Resolution System for the Knowledge Economy
 - Who are the active and passive agents in the dispute resolution system
 
 ## Problem Statement
+- Bringing more transparency and trust to the knowledge economy
+
+## User Journey
 
 ## Solution Summary
 

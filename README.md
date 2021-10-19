@@ -1,5 +1,5 @@
 ## Whitepaper
-A Dynamic Dispute Resolution System for the Knowledge Economy
+A Decentralised Dispute Resolution System for the Dynamic DAOs
 
 ## Pretext
 - what is happening now in the knowledge economy

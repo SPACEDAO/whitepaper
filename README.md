@@ -1,5 +1,5 @@
 ## Whitepaper
-A Decentralised Dispute Resolution System for the Dynamic DAOs
+A Decentralised Dialogic Imagination System for the Dynamic DAOs
 
 ## Pretext
 - what is happening now in the knowledge economy
